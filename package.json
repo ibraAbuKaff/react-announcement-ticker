@@ -1,0 +1,51 @@
+{
+  "name": "react-announcement-ticker",
+  "version": "1.0.0",
+  "description": "React JS Announcement Ticker",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "keywords": [
+    "react",
+    "react js",
+    "list",
+    "event-logs",
+    "logs",
+    "events",
+    "log"
+  ],
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "lodash": "^4.17.10",
+    "react": "^15.5.4",
+    "react-svg-loader": "^2.1.0",
+    "style-loader": "^0.21.0",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Ibraheem Abu Kaff",
+    "email": "eng.ibraheemabukaff@gmail.com"
+  },
+  "homepage": "https://github.com/ibraAbuKaff/react-announcement-ticker",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibraAbuKaff/react-announcement-ticker"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.11"
+  }
+}
