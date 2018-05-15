@@ -1,6 +1,6 @@
 {
   "name": "react-announcement-ticker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React JS Announcement Ticker",
   "main": "build/index.js",
   "peerDependencies": {
@@ -10,10 +10,11 @@
     "react",
     "react js",
     "list",
-    "event-logs",
-    "logs",
-    "events",
-    "log"
+    "news",
+    "ticker",
+    "announcement",
+    "news-ticker",
+    "news-listing"
   ],
   "dependencies": {
     "babel-preset-es2015": "^6.24.1",
